@@ -11,7 +11,7 @@ A simple Python tool that checks password strength based on security rules.
 - Checks special characters
 
 # How to Run
-1. Run the file using: checker.py
+1. Run the file using: python3 checker.py
 2. Enter password
 3. Get strength result
 
